@@ -1,0 +1,7 @@
+print(str(22))
+print(float("22.13"))
+print(bool("un string"))
+print(bool("0"))
+print(bool(0))
+print(bool(5))
+print(bool(None))

@@ -1,0 +1,10 @@
+texto = "Hola Mundo"
+print(texto.upper())
+print(texto.lower())
+print((texto.lower()).find("mun"))
+print(texto.upper().find("DO"))
+print(texto.replace("do", "dillo"))
+print(texto.replace("la", "landa"))
+print(texto.replace("la Mu", "landa"))
+nuevo_texto = texto.replace("la","landa")
+print("Mundo" in texto)
